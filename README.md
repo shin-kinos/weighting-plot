@@ -64,6 +64,7 @@ A graph in `JPG` format.
 ```
 % Rscript weighting-plot.r -i demo_03.txt -o demo_03_plot -c 3
 ```
+![demo_03_plot](https://user-images.githubusercontent.com/83740080/127841283-0c0447da-93db-4cdc-b0ca-fb97f9b28486.jpg)
 
 ### Example 2
 
