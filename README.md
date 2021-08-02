@@ -72,6 +72,8 @@ A graph in `JPG` format.
 % Rscript weighting-plot.r -i ace2_human_aligned.fasta_output.txt -o ace2_human_plot -c 2 -C 2.25
 ```
 
+![ace2_human_plot](https://user-images.githubusercontent.com/83740080/127841590-6cc038ca-bb5c-4001-a4fd-3f773eb20d89.jpg)
+
 ### Example 3
 
 ```
