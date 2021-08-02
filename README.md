@@ -44,5 +44,37 @@ See some example input files in `demo` directory.
 
 Available options :
 
-`-i` : Input file name, REQUI
+* `-i` : Input file name, REQUIRED.
+* `-o` : Output file name. REQUIRED.
+* `-c` : Types of colour gradient.
+* `-w` : Size of width (px).
+* `-h` : Size of height (px).
+* `-C` : Size of circle.
 
+[e.g]
+
+```
+% Rscript weighting-plot.r -i input_file.txt -o output_plot -c 2 -w 2500 -h 2250 -C 2.5
+```
+## Output 
+A graph in `JPG` format.
+
+### Example 1
+
+```
+% Rscript weighting-plot.r -i demo_03.txt -o demo_03_plot -c 3
+```
+
+### Example 2
+
+```
+% Rscript weighting-plot.r -i ace2_human_aligned.fasta_output.txt -o ace2_human_plot -c 2 -C 2.25
+```
+
+### Example 3
+
+```
+% Rscript weighting-plot.r -i pfk_human_align.fasta_output.txt -o pfk_human_plot -c 4 -w 2500 -h 2250 -C 3
+```
+
+Enjoy 🤟 
