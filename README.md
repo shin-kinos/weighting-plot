@@ -80,4 +80,6 @@ A graph in `JPG` format.
 % Rscript weighting-plot.r -i pfk_human_align.fasta_output.txt -o pfk_human_plot -c 4 -w 2500 -h 2250 -C 3
 ```
 
+![pfk_human_plot](https://user-images.githubusercontent.com/83740080/127841790-48bda6d6-526b-47ff-8131-5b6b9de9e746.jpg)
+
 Enjoy 🤟 
