@@ -28,7 +28,7 @@ Vesion `1.3.1` or more.
 ### ggplot2
 * https://ggplot2.tidyverse.org/ 
 
-Version `` or more.
+Version `3.3.5` or more.
 
 ```
 > packageVersion("ggplot2")
